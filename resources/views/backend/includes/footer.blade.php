@@ -1,0 +1,1 @@
+<footer class="footer"> © 2021 Super Shop <a href="https://lunaralgo/">Lunar Algo</a> </footer>
